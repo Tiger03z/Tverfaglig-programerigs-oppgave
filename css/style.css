@@ -1,28 +1,9 @@
 body {
-    background: radial-gradient(circle, #5a0000, #1a0000);
+    background: radial-gradient(circle, #786b6b, #1a0000);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     color: #333;
     margin: 0;
-}
-
-#panel {
-    width: 420px;
-    border-radius: 12px;
-    background: burlywood;
-    margin: 80px auto;
-    padding: 30px;
-    box-shadow: 0 0 30px rgba(0,0,0,0.9);
-    border: 2px solid #4a0000;
-    text-align: center;
-}
-
-#illustration {
-    width: 100%;
-    height: auto;
-    margin-bottom: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px black;
 }
 
 #button {
@@ -62,10 +43,3 @@ button:active {
     transform: scale(0.97);
 }
 
-#points {
-    color: white;
-    font-size: 22px;
-    font-weight: bold;
-    text-shadow: 0 0 8px red;
-    margin-top: 10px;
-}
